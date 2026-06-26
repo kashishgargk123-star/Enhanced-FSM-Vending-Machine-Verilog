@@ -76,12 +76,19 @@ Enhanced-FSM-Vending-Machine-Verilog
 
 ---
 
-## Learning Outcomes
--Learned Moore FSM design methodology.
--Implemented sequential logic in Verilog HDL.
--Developed and verified a complete testbench.
--Debugged the design using GTKWave.
--Used Git and GitHub for version control
+## 📚 Learning Outcomes
+
+Through this project, I gained practical experience in digital design and Verilog HDL by implementing and verifying a Finite State Machine (FSM)-based controller. Key learning outcomes include:
+
+- Designed and implemented a **Moore Finite State Machine (FSM)** in Verilog HDL.
+- Applied **sequential logic** concepts using state registers and next-state logic.
+- Learned to model real-world behavior such as **product dispensing, transaction cancellation, refund, and change return**.
+- Developed a comprehensive **Verilog testbench** to verify multiple transaction scenarios.
+- Performed functional simulation using **Icarus Verilog** and analyzed waveforms with **GTKWave**.
+- Improved debugging skills by identifying and resolving FSM transition and output logic issues.
+- Practiced writing clean, modular, and well-documented Verilog code.
+- Gained hands-on experience with **Git and GitHub** for version control and project documentation.
+- Strengthened understanding of the RTL design and verification workflow used in digital hardware development.
 
 ## ▶️ How to Run
 
