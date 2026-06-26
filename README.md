@@ -76,6 +76,13 @@ Enhanced-FSM-Vending-Machine-Verilog
 
 ---
 
+## Learning Outcomes
+.Learned Moore FSM design methodology.
+.Implemented sequential logic in Verilog HDL.
+.Developed and verified a complete testbench.
+.Debugged the design using GTKWave.
+.Used Git and GitHub for version control
+
 ## ▶️ How to Run
 
 ### Compile
