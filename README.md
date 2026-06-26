@@ -135,6 +135,20 @@ gtkwave vending_machine.vcd
 
 ---
 
+## 🎯 Key Concepts Covered
+
+- Verilog HDL
+- Moore Finite State Machine (FSM)
+- Sequential Logic Design
+- State Transition Diagram
+- RTL Design
+- Testbench Development
+- Functional Simulation
+- Digital System Verification
+- Icarus Verilog
+- GTKWave
+- Git & GitHub
+
 ## 👩‍💻 Author
 
 **Kashish Garg**
